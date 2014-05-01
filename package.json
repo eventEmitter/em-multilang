@@ -1,7 +1,7 @@
 {
       "name":           "em-multilang"
     , "description":    "multilang middleware for ee-webservice"
-    , "version":        "0.1.1"
+    , "version":        "0.1.2"
     , "homepage":       "https://github.com/eventEmitter/em-multilang"
     , "author":         "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
     , "repository": {
@@ -14,10 +14,10 @@
         "url":          "https://github.com/eventEmitter/em-multilang/issues"
     }
     , "dependencies": {
-          "ee-class":       "*"
-        , "ee-event":       "*"
-        , "ee-log":         "*"
-        , "ee-argv":        "*"
+          "ee-class":       "0.4.x"
+        , "ee-event":       "0.1.x"
+        , "ee-log":         "0.2.x"
+        , "ee-argv":        "0.1.x"
         , "geoip-lite":     "*"
     }
     , "devDependencies": {}
