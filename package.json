@@ -1,7 +1,7 @@
 {
       "name":           "em-multilang"
     , "description":    "multilang middleware for ee-webservice"
-    , "version":        "0.1.6"
+    , "version":        "0.1.7"
     , "homepage":       "https://github.com/eventEmitter/em-multilang"
     , "author":         "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
     , "repository": {
