@@ -14,10 +14,10 @@
         "url":          "https://github.com/eventEmitter/em-multilang/issues"
     }
     , "dependencies": {
-          "ee-class":       "0.4.x"
+          "ee-class":       "~1.4.0"
         , "ee-event":       "0.1.x"
-        , "ee-log":         "0.2.x"
-        , "ee-argv":        "0.1.x"
+        , "ee-log":         "~2.0.2"
+        , "ee-argv":        "~1.0.2"
     }
     , "devDependencies": {}
     , "optionalDependencies": {}
