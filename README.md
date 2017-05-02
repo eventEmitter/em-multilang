@@ -1,6 +1,8 @@
 em-multilang
 ============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/em-multilang.svg)](https://greenkeeper.io/)
+
 multilang middleware for ee-webservice
 
 
